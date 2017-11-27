@@ -1,3 +1,9 @@
+/*
+Program: Connect Four (Personal Project)
+Author: Aswin Manoj
+Institution: University of Illinois at Chicago (UIC)
+*/
+
 #include <cstdio>
 #include <cstring>
 #include <cstdlib>
